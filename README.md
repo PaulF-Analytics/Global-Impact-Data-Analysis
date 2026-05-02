@@ -12,4 +12,4 @@ This repository contains a series of technical projects focused on socio-economi
 
 ## Project 2: Nigeria & South Africa Econometric Comparison
 - **Focus:** OLS Regression and HDI drivers.
-- **Goal:** Analyzing industrial impacts on human development (2000–2023).
+- **Goal:** Analyzing industrial impacts on human development (1996–2023).
